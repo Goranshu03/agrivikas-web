@@ -1,0 +1,22 @@
+===========================================
+AGRIVIKAS PROJECT REPORT - PDF CONVERSION
+===========================================
+
+EASIEST METHOD:
+1. Go to: https://www.markdowntopdf.com/
+2. Copy the content from AgriVikas_Project_Report.md
+3. Paste it into the website
+4. Click "Convert to PDF"
+5. Download your PDF
+
+ALTERNATIVE METHOD:
+1. Go to: https://dillinger.io/
+2. Paste the markdown content
+3. Click "Export As" → "PDF"
+
+The markdown file is located at:
+./AgriVikas_Project_Report.md
+
+You can also find it in your GitHub repository that you synced earlier.
+
+===========================================
